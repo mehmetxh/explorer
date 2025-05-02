@@ -1,5 +1,5 @@
 {
-  "chain_name": "airchains",
+  "chain_name": "airchains-testnet",
   "api": ["https://airchains-testnet-api.itrocket.net"],
   "rpc": ["https://airchains-testnet-rpc.itrocket.net"],
   "sdk_version": "0.50.3",
