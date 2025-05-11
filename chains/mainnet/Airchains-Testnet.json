@@ -1,6 +1,6 @@
 {
   "chain_name": "airchains-testnet",
-  "api": ["http://airchains-mehmetxh-api.strangled.net"],
+  "api": ["http://airchains-mehmetxh-api.strangled.net/api"],
   "rpc": ["http://airchains-mehmetxh-rpc.strangled.net"],
   "sdk_version": "0.50.3",
   "addr_prefix": "air",
